@@ -24,20 +24,21 @@ muhammad-jawad-v23)
 
 ## 🚀 Featured Projects
 
-[![Web Scraper Framework](https://github-readme-stats.vercel.app/api/pin/?username=jawad097&repo=web-scraping-suite&theme=dark&show_owner=true)](https://github.com/jawad097/web-scraping-suite)
-- Advanced web scraping toolkit using BeautifulSoup4 and Scrapy
-- Features: Proxy rotation, CAPTCHA handling, and data export to CSV/JSON
-- **Tech Stack**: Python, Scrapy, Selenium, PostgreSQL
+## 🚀 Featured Projects
 
-[![API Integrations](https://github-readme-stats.vercel.app/api/pin/?username=jawad097&repo=jira-grafana-integration&theme=dark&show_owner=true)](https://github.com/jawad097/jira-grafana-integration)
-- Real-time Jira metrics visualization in Grafana
-- Automated ticket tracking and team performance dashboards
-- **Tech Stack**: Python, Grafana API, Jira API, InfluxDB
+[![Movie Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=jawad097&repo=Movie-Recommendation-System&theme=dark)](https://github.com/jawad097/Movie-Recommendation-System)
+- Collaborative filtering-based recommendation engine
+- Content-based filtering using movie metadata
+- **Tech Stack**: Python, Pandas, Scikit-learn, Streamlit
 
-[![AI Automation](https://github-readme-stats.vercel.app/api/pin/?username=jawad097&repo=ai-workflow-automation&theme=dark&show_owner=true)](https://github.com/jawad097/ai-workflow-automation)
-- NLP-powered ticket classification system for Jira
-- Predictive analytics for project timelines
-- **Tech Stack**: Python, TensorFlow, spaCy, FastAPI
+[![AI Travel Agent](https://github-readme-stats.vercel.app/api/pin/?username=jawad097&repo=AI-Travel-Agent&theme=dark)](https://github.com/jawad097/AI-Travel-Agent)
+- Dynamic travel recommendations using AI
+- Integration with mapping APIs and travel services
+- **Tech Stack**: Python, FastAPI, OpenAI API, Google Maps API
+
+## 🔗 Repository Links
+- 🎬 [Movie Recommendation System](https://github.com/jawad097/Movie-Recommendation-System)
+- ✈️ [AI Travel Agent](https://github.com/jawad097/AI-Travel-Agent)
 
 ## 📈 Activity Metrics
 
