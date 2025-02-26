@@ -22,7 +22,15 @@ muhammad-jawad-v23)
 ![Git](https://img.shields.io/badge/Git-Version_Control-%23F05032?logo=git)
 ![Postman](https://img.shields.io/badge/Postman-API_Testing-%23FF6C37?logo=postman)
 
+- 🧠 Developed RAG system improving query accuracy by 40%
+- 🤖 Optimized LLM inference latency by 65% using quantization
+- 📜 Contributed to open-source LLM fine-tuning frameworks
+
 ## 🚀 Featured Projects
+[![GenAI Platform](https://github-readme-stats.vercel.app/api/pin/?username=jawad097&repo=genai-platform&theme=dark)](https://github.com/jawad097/genai-platform)
+- Enterprise-grade LLM orchestration framework
+- Features: RAG implementation, LoRA adapters, cost monitoring
+- **Tech Stack**: Python, LangChain, PyTorch, Weaviate
 
 [![Movie Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=jawad097&repo=Movie-Recommendation-System&theme=dark)](https://github.com/jawad097/Movie-Recommendation-System)
 - Collaborative filtering-based recommendation engine
@@ -40,16 +48,13 @@ muhammad-jawad-v23)
 
 ## 📈 Activity Metrics
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jawad097&theme=dark)](https://git.io/streak-stats)
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jawad097&theme=react-dark&area=true&hide_border=true)](https://github.com/jawad097)
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jawad097&theme=react-dark&hide_border=true)](https://github.com/jawad097)
 
-**Key Stats:**
-- **490** Total Contributions (2022-Present)
-- **Current Streak:** 3 days
-- **Longest Streak:** 16 days
-- 
-## 📚 Technical Expertise
+</div>
 
 ```python
 class AI_Developer:
