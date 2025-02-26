@@ -24,8 +24,6 @@ muhammad-jawad-v23)
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 [![Movie Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=jawad097&repo=Movie-Recommendation-System&theme=dark)](https://github.com/jawad097/Movie-Recommendation-System)
 - Collaborative filtering-based recommendation engine
 - Content-based filtering using movie metadata
@@ -42,14 +40,15 @@ muhammad-jawad-v23)
 
 ## 📈 Activity Metrics
 
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jawad097&theme=dark)](https://git.io/streak-stats)
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jawad097&theme=react-dark&hide_border=true)](https://github.com/jawad097)
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jawad097&theme=react-dark&area=true&hide_border=true)](https://github.com/jawad097)
 
-</div>
-
+**Key Stats:**
+- **490** Total Contributions (2022-Present)
+- **Current Streak:** 3 days
+- **Longest Streak:** 16 days
+- 
 ## 📚 Technical Expertise
 
 ```python
