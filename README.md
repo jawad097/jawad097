@@ -27,7 +27,6 @@ muhammad-jawad-v23)
 - 📜 Contributed to open-source LLM fine-tuning frameworks
 
 ## 🚀 Featured Projects
-[![GenAI Platform](https://github-readme-stats.vercel.app/api/pin/?username=jawad097&repo=genai-platform&theme=dark)](https://github.com/jawad097/genai-platform)
 - Enterprise-grade LLM orchestration framework
 - Features: RAG implementation, LoRA adapters, cost monitoring
 - **Tech Stack**: Python, LangChain, PyTorch, Weaviate
