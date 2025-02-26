@@ -58,7 +58,7 @@ muhammad-jawad-v23)
 ```python
 class AI_Developer:
     def __init__(self):
-        self.name = "Jawad Koper"
+        self.name = "Jawad Khan"
         self.skills = {
             'core_tech': ['Python', 'JavaScript', 'SQL'],
             'ai_ml': {
