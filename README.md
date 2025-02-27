@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Jawad | Python Developer & AI Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/
-muhammad-jawad-v23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/muhammad-jawad-v23)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-%23EA4335?style=flat-square&logo=gmail)](mailto:jawad.koper@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/jawad097?label=Follow&style=social)](https://github.com/jawad097)
 
 ## 🛠️ Core Competencies
-
 **Programming & Development**  
 ![Python](https://img.shields.io/badge/Python-Expert-%233776AB?logo=python)
 ![REST APIs](https://img.shields.io/badge/REST_API-Development-%2300B4D8?logo=fastapi)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-Advanced-%23007ACC?logo=python)
+![Discord.py](https://img.shields.io/badge/Discord.py-Expert-%235865F2?logo=discord)
 
 **Data & Automation**  
 ![Grafana Integration](https://img.shields.io/badge/Grafana-Dashboarding-%23F46800?logo=grafana)
 ![Jira Automation](https://img.shields.io/badge/Jira-Integration-%230052CC?logo=jira)
 ![Data Pipelines](https://img.shields.io/badge/ETL-Pipelines-%23FF6F00?logo=apachespark)
+![BigQuery](https://img.shields.io/badge/BigQuery-Data_Integration-%234285F4?logo=google-cloud)
+![Workflow Automation](https://img.shields.io/badge/Workflow-Automation-%23FF9A00?logo=zapier)
 
 **DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-Containerization-%232496ED?logo=docker)
@@ -25,6 +25,7 @@ muhammad-jawad-v23)
 - 🧠 Developed RAG system improving query accuracy by 40%
 - 🤖 Optimized LLM inference latency by 65% using quantization
 - 📜 Contributed to open-source LLM fine-tuning frameworks
+- 🤖 Created enterprise Discord bots for business process automation
 
 ## 🚀 Featured Projects
 - Enterprise-grade LLM orchestration framework
@@ -44,15 +45,12 @@ muhammad-jawad-v23)
 ## 🔗 Repository Links
 - 🎬 [Movie Recommendation System](https://github.com/jawad097/Movie-Recommendation-System)
 - ✈️ [AI Travel Agent](https://github.com/jawad097/AI-Travel-Agent)
+- 🤖 [Quality Assurance Bot](https://github.com/jawad097/QA-Discord-Bot)
 
 ## 📈 Activity Metrics
-
 <div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jawad097&theme=dark)](https://git.io/streak-stats)
-
 [![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jawad097&theme=react-dark&hide_border=true)](https://github.com/jawad097)
-
 </div>
 
 ```python
@@ -60,15 +58,16 @@ class AI_Developer:
     def __init__(self):
         self.name = "Jawad Khan"
         self.skills = {
-            'core_tech': ['Python', 'JavaScript', 'SQL'],
+            'core_tech': ['Python', 'JavaScript', 'SQL', 'discord.py'],
             'ai_ml': {
                 'generative_ai': ['LLMs', 'GANs', 'Diffusion Models'],
                 'frameworks': ['TensorFlow', 'PyTorch', 'HuggingFace'],
                 'nlp': ['Transformers', 'LangChain', 'RAG Systems'],
                 'deployment': ['ONNX', 'TensorRT', 'FastAPI']
             },
-            'databases': ['PostgreSQL', 'MongoDB', 'VectorDBs'],
-            'mlops': ['MLflow', 'Kubeflow', 'DVC']
+            'databases': ['PostgreSQL', 'MongoDB', 'VectorDBs', 'BigQuery'],
+            'mlops': ['MLflow', 'Kubeflow', 'DVC'],
+            'workflow_automation': ['Discord Bots', 'BigQuery Integration', 'Process Automation']
         }
     
     def current_focus(self):
@@ -76,5 +75,6 @@ class AI_Developer:
             "Developing enterprise-grade Generative AI solutions\n"
             "● Building custom LLM pipelines\n"
             "● Implementing RAG architectures\n"
-            "● Optimizing model serving infrastructure"
+            "● Optimizing model serving infrastructure\n"
+            "● Creating intelligent automation solutions with Discord bots"
         )
