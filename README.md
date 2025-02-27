@@ -43,21 +43,21 @@ DevOps & Tools
 </div>
 ```python
 class AI_Developer:
-    def __init__(self):
+    def init(self):
         self.name = "Jawad Khan"
         self.skills = {
-            'core_tech': ['Python', 'JavaScript', 'SQL', 'discord.py'],
+            'core_tech': ['Python', 'JavaScript', 'SQL'],
             'ai_ml': {
                 'generative_ai': ['LLMs', 'GANs', 'Diffusion Models'],
                 'frameworks': ['TensorFlow', 'PyTorch', 'HuggingFace'],
                 'nlp': ['Transformers', 'LangChain', 'RAG Systems'],
                 'deployment': ['ONNX', 'TensorRT', 'FastAPI']
             },
-            'databases': ['PostgreSQL', 'MongoDB', 'VectorDBs', 'BigQuery'],
-            'mlops': ['MLflow', 'Kubeflow', 'DVC'],
-            'workflow_automation': ['Discord Bots', 'BigQuery Integration', 'Process Automation']
+            'databases': ['PostgreSQL', 'MongoDB', 'BigQuery'],
+            'mlops': ['MLflow', 'Kubeflow', 'DVC']
+            'workflow_automation': ['Discord Bots', 'BigQuery Integration']
         }
-    
+
     def current_focus(self):
         return (
             "Developing enterprise-grade Generative AI solutions\n"
@@ -65,4 +65,4 @@ class AI_Developer:
             "● Implementing RAG architectures\n"
             "● Optimizing model serving infrastructure\n"
             "● Creating intelligent automation solutions with Discord bots"
-        )
+        )  
