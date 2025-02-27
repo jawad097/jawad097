@@ -13,6 +13,7 @@ muhammad-jawad-v23)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-Advanced-%23007ACC?logo=python)
 ![Generative AI](https://img.shields.io/badge/Gen_AI-LLMs/%20RAG-%2300B4D8?logo=openai)
 ![MLOps](https://img.shields.io/badge/MLOps-Kubeflow/%20MLflow-%23FF6F00?logo=python)
+![Discord.py](https://img.shields.io/badge/Discord.py-Expert-%235865F2?logo=discord)
 
 **Data & Automation**  
 ![Grafana Integration](https://img.shields.io/badge/Grafana-Dashboarding-%23F46800?logo=grafana)
