@@ -57,16 +57,27 @@ muhammad-jawad-v23)
 ## 📚 Technical Expertise
 
 ```python
-class Developer:
+class AI_Developer:
     def __init__(self):
-        self.name = "Jawad Koper"
+        self.name = "Jawad Khan"
         self.skills = {
-            'languages': ['Python', 'JavaScript', 'SQL'],
-            'frameworks': ['Flask', 'FastAPI', 'Scrapy'],
-            'databases': ['PostgreSQL', 'MongoDB', 'InfluxDB'],
-            'devops': ['Docker', 'GitHub Actions', 'AWS EC2'],
-            'tools': ['Grafana', 'Jira', 'Tableau']
+            'core_tech': ['Python', 'JavaScript', 'SQL', 'discord.py'],
+            'ai_ml': {
+                'generative_ai': ['LLMs', 'GANs', 'Diffusion Models'],
+                'frameworks': ['TensorFlow', 'PyTorch', 'HuggingFace'],
+                'nlp': ['Transformers', 'LangChain', 'RAG Systems'],
+                'deployment': ['ONNX', 'TensorRT', 'FastAPI']
+            },
+            'databases': ['PostgreSQL','BigQuery'],
+            'mlops': ['MLflow', 'Kubeflow', 'DVC'],
+            'workflow_automation': ['Discord Bots', 'BigQuery Integration', 'Process Automation']
         }
     
     def current_focus(self):
-        return "Building AI-powered workflow automation systems"
+        return (
+            "Developing enterprise-grade Generative AI solutions\n"
+            "● Building custom LLM pipelines\n"
+            "● Implementing RAG architectures\n"
+            "● Optimizing model serving infrastructure\n"
+            "● Creating intelligent automation solutions with Discord bots"
+        )
