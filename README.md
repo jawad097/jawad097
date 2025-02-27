@@ -51,7 +51,7 @@ muhammad-jawad-v23)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jawad097&theme=dark)](https://git.io/streak-stats)
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jawad097&theme=react-dark&hide_border=true)](https://github.com/jawad097)
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jawad097&bg_color=1a1b27&color=00b4d8&line=ffffff&point=00b4d8&area=true&hide_border=true)](https://github.com/jawad097)
 
 </div>
 
