@@ -1,4 +1,5 @@
 
+
 # 👋 Hi, I'm Jawad | Python Developer & AI Enthusiast
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/
 muhammad-jawad-v23)
@@ -20,7 +21,6 @@ DevOps & Tools
 - 🧠 Developed RAG system improving query accuracy by 40%
 - 🤖 Optimized LLM inference latency by 65% using quantization
 - 📜 Contributed to open-source LLM fine-tuning frameworks
-- - 🤖 Created enterprise Discord bots for business process automation
 ## 🚀 Featured Projects
 - Enterprise-grade LLM orchestration framework
 - Features: RAG implementation, LoRA adapters, cost monitoring
@@ -53,9 +53,8 @@ class AI_Developer:
                 'nlp': ['Transformers', 'LangChain', 'RAG Systems'],
                 'deployment': ['ONNX', 'TensorRT', 'FastAPI']
             },
-            'databases': ['PostgreSQL', 'MongoDB', 'BigQuery'],
+            'databases': ['PostgreSQL', 'MongoDB', 'VectorDBs'],
             'mlops': ['MLflow', 'Kubeflow', 'DVC']
-            'workflow_automation': ['Discord Bots', 'BigQuery Integration']
         }
 
     def current_focus(self):
@@ -63,6 +62,5 @@ class AI_Developer:
             "Developing enterprise-grade Generative AI solutions\n"
             "● Building custom LLM pipelines\n"
             "● Implementing RAG architectures\n"
-            "● Optimizing model serving infrastructure\n"
-            "● Creating intelligent automation solutions with Discord bots"
-        )  
+            "● Optimizing model serving infrastructure"
+        ) 
