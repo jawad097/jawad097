@@ -69,16 +69,22 @@ class AI_Developer:
                 'nlp': ['Transformers', 'LangChain', 'RAG Systems'],
                 'deployment': ['ONNX', 'TensorRT', 'FastAPI']
             },
-            'databases': ['PostgreSQL','BigQuery'],
-            'mlops': ['MLflow', 'Kubeflow', 'DVC'],
-            'workflow_automation': ['Discord Bots', 'BigQuery Integration', 'Process Automation']
+            'voip_tech': {
+                'servers': ['Kamailio', 'Asterisk', 'OpenSIPS'],
+                'dialers': ['Vicidial'],
+                'integration': ['AMI', 'REST APIs']
+            },
+            'databases': ['PostgreSQL', 'BigQuery', 'Redis'],
+            'web_frameworks': ['Flask', 'FastAPI', 'Django'],
+            'automation': ['Discord Bots', 'Process Automation', 'CI/CD Pipelines']
         }
-    
+
     def current_focus(self):
         return (
-            "Developing enterprise-grade Generative AI solutions\n"
-            "● Building custom LLM pipelines\n"
-            "● Implementing RAG architectures\n"
-            "● Optimizing model serving infrastructure\n"
-            "● Creating intelligent automation solutions with Discord bots"
+            "Developing enterprise-grade AI solutions:\n"
+            "● Building custom LLM pipelines with RAG architectures\n"
+            "● Optimizing VoIP systems with Kamailio/Vicidial integration\n"
+            "● Developing API-first solutions with FastAPI/Flask\n"
+            "● Creating intelligent automation systems with Discord bots\n"
+            "● Implementing MLOps pipelines for AI model lifecycle management"
         )
