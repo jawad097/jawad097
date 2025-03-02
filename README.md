@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jawad | Python Developer & AI Enthusiast
+# 👋 Hi, I am Jawad | Python Developer & AI Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/
 muhammad-jawad-v23)
